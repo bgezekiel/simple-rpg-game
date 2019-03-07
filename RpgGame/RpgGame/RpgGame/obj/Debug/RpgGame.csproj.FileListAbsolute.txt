@@ -1,0 +1,13 @@
+C:\Users\807777\source\repos\RpgGame\RpgGame\bin\Debug\RpgGame.exe.config
+C:\Users\807777\source\repos\RpgGame\RpgGame\bin\Debug\RpgGame.exe
+C:\Users\807777\source\repos\RpgGame\RpgGame\bin\Debug\RpgGame.pdb
+C:\Users\807777\source\repos\RpgGame\RpgGame\bin\Debug\Engine.dll
+C:\Users\807777\source\repos\RpgGame\RpgGame\bin\Debug\Engine.pdb
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csprojAssemblyReference.cache
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.Properties.Resources.resources
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.GenerateResource.cache
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.CoreCompileInputs.cache
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.CopyComplete
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.exe
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.pdb
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.RpgGame.resources
