@@ -10,3 +10,4 @@ C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.CoreCompil
 C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.csproj.CopyComplete
 C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.exe
 C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.pdb
+C:\Users\807777\source\repos\RpgGame\RpgGame\obj\Debug\RpgGame.RpgGame.resources
