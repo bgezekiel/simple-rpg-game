@@ -10,5 +10,11 @@ namespace Engine
     public class HealingPotion : Item
     {
         public int AmountHeal { get; set; }
+
+        // custom construtor inheriting from base
+        public HealingPotion(int id, string name, string namePlural, int amountHeal) : base(id, name, namePlural)
+        {
+            AmountHeal = amountHeal;
+        }
     }
 }

@@ -8,6 +8,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+/*
+ * Author: Brandon Ezekiel
+ * Project: Simple RPG Game
+ * Main class
+ */
 
 namespace RpgGame
 {
@@ -19,14 +24,9 @@ namespace RpgGame
         {
             InitializeComponent();
 
-            _player = new Player();
+            _player = new Player(10, 10, 20, 0, 1); // instantiate new player object
 
-            _player.CurrentHitPoints = 10;
-            _player.MaxHitPoints = 10;
-            _player.Gold = 20;
-            _player.Experience = 0;
-            _player.Level = 1;
-
+            // print player values to labels
             lblHitPoints.Text = _player.CurrentHitPoints.ToString();
             lblGold.Text = _player.Gold.ToString();
             lblExp.Text = _player.Experience.ToString();
