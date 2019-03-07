@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Engine
 {
-    public class Player
+    // Inherits from the LivingCreature base class
+    public class Player : LivingCreature
     {
-        public int CurrentHitPoints { get; set; }
-        public int MaxHitPoints { get; set; }
         public int Gold { get; set; }
         public int Experience { get; set; }
         public int Level { get; set; }

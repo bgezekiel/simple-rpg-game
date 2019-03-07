@@ -4,3 +4,9 @@ C:\Users\807777\source\repos\RpgGame\Engine\obj\Debug\Engine.csprojAssemblyRefer
 C:\Users\807777\source\repos\RpgGame\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\807777\source\repos\RpgGame\Engine\obj\Debug\Engine.dll
 C:\Users\807777\source\repos\RpgGame\Engine\obj\Debug\Engine.pdb
+C:\Users\807777\Documents\GitHub\simple-rpg-game\RpgGame\Engine\bin\Debug\Engine.dll
+C:\Users\807777\Documents\GitHub\simple-rpg-game\RpgGame\Engine\bin\Debug\Engine.pdb
+C:\Users\807777\Documents\GitHub\simple-rpg-game\RpgGame\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\807777\Documents\GitHub\simple-rpg-game\RpgGame\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\807777\Documents\GitHub\simple-rpg-game\RpgGame\Engine\obj\Debug\Engine.dll
+C:\Users\807777\Documents\GitHub\simple-rpg-game\RpgGame\Engine\obj\Debug\Engine.pdb
